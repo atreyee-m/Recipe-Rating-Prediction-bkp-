@@ -1,0 +1,6 @@
+*.pyc
+*.mm
+*.dict
+*.pickle
+*.sh
+*.br2
